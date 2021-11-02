@@ -1,7 +1,3 @@
-module github.com/Martalf/tweetpost
+module github.com/Martalf/tweetpostbis
 
 go 1.16
-
-require( 
-
-)
