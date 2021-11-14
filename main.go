@@ -3,12 +3,12 @@ package main
 // ------------------------------------- //
 //             IMPORTACIONES             //
 // ------------------------------------- //
-import(
+/*import(
 
 	"fmt" // para mostrar por pantalla con consula algun texto
 
 
-)
+)*/
 
 
 func main() {
